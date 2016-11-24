@@ -1,0 +1,42 @@
+c:\users\rishab\documents\visual studio 2013\Projects\Tictac version1.0\Tictac version1.0\Bin\Debug\Assets\ApplicationIcon.png
+c:\users\rishab\documents\visual studio 2013\Projects\Tictac version1.0\Tictac version1.0\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\rishab\documents\visual studio 2013\Projects\Tictac version1.0\Tictac version1.0\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\rishab\documents\visual studio 2013\Projects\Tictac version1.0\Tictac version1.0\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\rishab\documents\visual studio 2013\Projects\Tictac version1.0\Tictac version1.0\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\rishab\documents\visual studio 2013\Projects\Tictac version1.0\Tictac version1.0\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\rishab\documents\visual studio 2013\Projects\Tictac version1.0\Tictac version1.0\Bin\Debug\Tictac version1.0.dll
+c:\users\rishab\documents\visual studio 2013\Projects\Tictac version1.0\Tictac version1.0\Bin\Debug\Tictac version1.0.pdb
+c:\users\rishab\documents\visual studio 2013\Projects\Tictac version1.0\Tictac version1.0\Bin\Debug\AppManifest.xaml
+c:\users\rishab\documents\visual studio 2013\Projects\Tictac version1.0\Tictac version1.0\Bin\Debug\Properties\WMAppManifest.xml
+c:\users\rishab\documents\visual studio 2013\Projects\Tictac version1.0\Tictac version1.0\Bin\Debug\Tictac_version1._0_Debug_AnyCPU.xap
+c:\users\rishab\documents\visual studio 2013\Projects\Tictac version1.0\Tictac version1.0\obj\Debug\App.g.cs
+c:\users\rishab\documents\visual studio 2013\Projects\Tictac version1.0\Tictac version1.0\obj\Debug\MainPage.g.cs
+c:\users\rishab\documents\visual studio 2013\Projects\Tictac version1.0\Tictac version1.0\obj\Debug\Tictac version1.0.g.resources
+c:\users\rishab\documents\visual studio 2013\Projects\Tictac version1.0\Tictac version1.0\obj\Debug\Tictac_version1._0.Resources.AppResources.resources
+c:\users\rishab\documents\visual studio 2013\Projects\Tictac version1.0\Tictac version1.0\obj\Debug\Tictac version1.0.csproj.GenerateResource.Cache
+c:\users\rishab\documents\visual studio 2013\Projects\Tictac version1.0\Tictac version1.0\obj\Debug\Tictac version1.0.dll
+c:\users\rishab\documents\visual studio 2013\Projects\Tictac version1.0\Tictac version1.0\obj\Debug\Tictac version1.0.pdb
+c:\users\rishab\documents\visual studio 2013\Projects\Tictac version1.0\Tictac version1.0\obj\Debug\XapCacheFile.xml
+C:\Users\rishab\documents\visual studio 2013\Projects\Tictac version1.0\Tictac version1.0\obj\Debug\Page1.g.cs
+C:\Users\rishab\documents\visual studio 2013\Projects\Tictac version1.0\Tictac version1.0\obj\Debug\Page2.g.cs
+C:\Users\idnrsj\Desktop\Tictac version1.0\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\idnrsj\Desktop\Tictac version1.0\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\idnrsj\Desktop\Tictac version1.0\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\idnrsj\Desktop\Tictac version1.0\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\idnrsj\Desktop\Tictac version1.0\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\idnrsj\Desktop\Tictac version1.0\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\idnrsj\Desktop\Tictac version1.0\Bin\Debug\Tictac version1.0.dll
+C:\Users\idnrsj\Desktop\Tictac version1.0\Bin\Debug\Tictac version1.0.pdb
+C:\Users\idnrsj\Desktop\Tictac version1.0\Bin\Debug\AppManifest.xaml
+C:\Users\idnrsj\Desktop\Tictac version1.0\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\idnrsj\Desktop\Tictac version1.0\Bin\Debug\Tictac_version1._0_Debug_AnyCPU.xap
+C:\Users\idnrsj\Desktop\Tictac version1.0\obj\Debug\App.g.cs
+C:\Users\idnrsj\Desktop\Tictac version1.0\obj\Debug\MainPage.g.cs
+C:\Users\idnrsj\Desktop\Tictac version1.0\obj\Debug\Page1.g.cs
+C:\Users\idnrsj\Desktop\Tictac version1.0\obj\Debug\Page2.g.cs
+C:\Users\idnrsj\Desktop\Tictac version1.0\obj\Debug\Tictac version1.0.g.resources
+C:\Users\idnrsj\Desktop\Tictac version1.0\obj\Debug\Tictac_version1._0.Resources.AppResources.resources
+C:\Users\idnrsj\Desktop\Tictac version1.0\obj\Debug\Tictac version1.0.csproj.GenerateResource.Cache
+C:\Users\idnrsj\Desktop\Tictac version1.0\obj\Debug\Tictac version1.0.dll
+C:\Users\idnrsj\Desktop\Tictac version1.0\obj\Debug\Tictac version1.0.pdb
+C:\Users\idnrsj\Desktop\Tictac version1.0\obj\Debug\XapCacheFile.xml
